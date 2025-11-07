@@ -6,12 +6,19 @@ Altamis Hail Ahsan Nasution & 297216
 
 Splash Screen : 
 
+
 <img width="1919" height="1199" alt="Screenshot 2025-10-31 182111" src="https://github.com/user-attachments/assets/431a332f-ff25-43ce-aa6d-01a36ab92ad3" />
+
+
 
 Home Page Before Calculation : 
 
+
 <img width="1919" height="1198" alt="Screenshot 2025-10-31 181631" src="https://github.com/user-attachments/assets/e0d969c5-79b2-4248-ae2d-74c4e5c82396" />
+
 
 Home Page After Calculation : 
 
+
 <img width="1919" height="1198" alt="Screenshot 2025-10-31 182022" src="https://github.com/user-attachments/assets/ea5be1f5-91e8-400e-af4a-640e4db96ef4" />
+
